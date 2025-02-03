@@ -1,0 +1,9 @@
+services:
+  ubuntu_catboost_test:
+    image: 'ubuntu:latest'
+    container_name: ubuntu_catboost_test
+    volumes:
+        - ../catboost-master-2:/catboost2
+    stdin_open: true
+    tty: true
+
