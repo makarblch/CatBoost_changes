@@ -1,0 +1,10 @@
+2025-05-10 19:47:48,602 - INFO - Initialized catboost model with params: {}
+2025-05-10 19:49:53,522 - INFO - Initialized xgboost model with params: {'n_estimators': 100, 'learning_rate': 0.1, 'max_depth': 4}
+2025-05-10 21:00:32,595 - INFO - Initialized xgboost model with params: {'n_estimators': 100, 'learning_rate': 0.1, 'max_depth': 4}
+2025-05-10 21:00:42,521 - INFO - Initialized xgboost model with params: {'n_estimators': 200, 'learning_rate': 0.1, 'max_depth': 4}
+2025-05-10 21:00:47,683 - INFO - Initialized xgboost model with params: {'n_estimators': 100, 'learning_rate': 0.1, 'max_depth': 4}
+2025-05-10 21:00:56,229 - INFO - Initialized xgboost model with params: {'n_estimators': 100, 'learning_rate': 0.2, 'max_depth': 4}
+2025-05-10 21:01:01,755 - INFO - Initialized catboost model with params: {'iterations': 100, 'learning_rate': 0.2, 'depth': 4}
+2025-05-10 21:01:11,685 - INFO - Initialized lightgbm model with params: {'n_estimators': 100, 'learning_rate': 0.2, 'max_depth': 4}
+2025-05-10 21:06:42,469 - INFO - Initialized xgboost model with params: {'n_estimators': 10, 'max_depth': 3}
+2025-05-10 22:13:46,316 - INFO - Initialized xgboost model with params: {'n_estimators': 10, 'max_depth': 3}
