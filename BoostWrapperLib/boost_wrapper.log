@@ -1,0 +1,10 @@
+2025-05-11 14:49:47,161 - INFO - Initialized xgboost model with params: {'n_estimators': 100, 'learning_rate': 0.2, 'max_depth': 4}
+2025-05-11 14:49:52,010 - INFO - Initialized xgboost model with params: {'n_estimators': 100, 'learning_rate': 0.2, 'max_depth': 4}
+2025-05-11 14:50:19,589 - INFO - Initialized xgboost model with params: {'n_estimators': 10, 'max_depth': 3}
+2025-05-11 14:50:21,132 - INFO - Initialized xgboost model with params: {'n_estimators': 10, 'max_depth': 3}
+2025-05-11 14:58:58,813 - INFO - Initialized xgboost model with params: {'n_estimators': 10, 'max_depth': 3}
+2025-05-11 17:21:12,920 - INFO - Initialized xgboost model with params: {'n_estimators': 10, 'max_depth': 3}
+2025-05-11 17:54:39,359 - INFO - Initialized xgboost model with params: {'n_estimators': 10, 'max_depth': 3}
+2025-05-11 17:57:15,687 - INFO - Initialized xgboost model with params: {'n_estimators': 10, 'max_depth': 3}
+2025-05-11 18:12:16,978 - INFO - Initialized xgboost model with params: {'n_estimators': 10, 'max_depth': 3}
+2025-05-12 15:20:17,498 - INFO - Initialized xgboost model with params: {'n_estimators': 100, 'learning_rate': 0.2, 'max_depth': 4}

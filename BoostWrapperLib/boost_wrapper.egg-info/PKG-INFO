@@ -1,0 +1,22 @@
+Metadata-Version: 2.4
+Name: boost_wrapper
+Version: 0.1.0
+Summary: Unified wrapper for CatBoost, XGBoost, LightGBM
+Home-page: https://github.com/makarblch/CatBoost_changes
+Author: Makar Kulishenko
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Description-Content-Type: text/markdown
+Requires-Dist: scikit-learn>=1.0
+Requires-Dist: catboost>=1.2
+Requires-Dist: xgboost>=2.0
+Requires-Dist: lightgbm>=4.0
+Dynamic: author
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: summary
+
+Drop-in compatible wrapper for three popular gradient boosting libraries.
